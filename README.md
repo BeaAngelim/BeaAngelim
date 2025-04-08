@@ -4,6 +4,21 @@
 
 Olá! Me chamo Beatriz Angelim, 26 anos, sou uma pessoa não binária e vivo em Olinda - PE. Tenho base em back-end (Python, Java, SQL) mas foi no front-end (HTML, CSS, JavaScript) que me encontrei e me apaixonei. Cursando Análise e Desenvolvimento de Sistemas na UNINASSAU.
 
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+  <img
+    alt="GitHub Stats"
+    height="150"
+    style="margin-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=BeaAngelim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img
+    alt="Tecnologias"
+    height="150"
+    style="width: 400px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaAngelim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</div>
+
 <img 
     align="left" 
     alt="HTML"
@@ -49,22 +64,7 @@ Olá! Me chamo Beatriz Angelim, 26 anos, sou uma pessoa não binária e vivo em 
     </a>
 </p>
 
-### Estatísticas
 
-<div style="display: flex; flex-direction: row; align-items: flex-start;">
-  <img
-    alt="GitHub Stats"
-    height="150"
-    style="margin-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=BeaAngelim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-    alt="Tecnologias"
-    height="150"
-    style="width: 400px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaAngelim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</div>
 
 
 ![Snake animation](https://github.com/BeaAngelim/BeaAngelim/blob/output/github-contribuition-grid-snake.svg)
