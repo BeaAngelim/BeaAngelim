@@ -67,4 +67,4 @@ Olá! Me chamo Beatriz Angelim, 26 anos, sou uma pessoa não binária e vivo em 
 
 
 
-![Snake animation](https://github.com/BeaAngelim/BeaAngelim/blob/output/github-contribuition-grid-snake.svg)
+![snake gif](https://github.com/BeaAngelim/BeaAngelim/blob/output/github-snake-dark.svg)
