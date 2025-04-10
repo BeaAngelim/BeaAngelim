@@ -3,7 +3,7 @@
   **`Desenvolvedor Front-end em Formação`**
 
 Olá! Me chamo Beatriz Angelim, 26 anos, sou uma pessoa não binária e vivo em Olinda - PE. 
-Tenho base em back-end mas foi no front-end que me encontrei e me apaixonei! 
+Embora meu foco e paixão estejam no desenvolvimento front-end (HTML, CSS, JavaScript), possuo base em back-end (Python, Java, SQL), o que me proporciona uma compreensão mais abrangente do desenvolvimento web.
 Cursando Análise e Desenvolvimento de Sistemas na UNINASSAU.
   
 <br>
